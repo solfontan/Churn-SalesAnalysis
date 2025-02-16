@@ -74,5 +74,5 @@ jupyter notebook
 
 ## 📎 **Accede al Análisis Completo**  
 
-🔗 **Hipótesis y Validaciones:** [Explorar hipótesis](Notebooks)  
+🔗 **Hipótesis y Validaciones:** [Explorar hipótesis](scr/Notebooks)  
 🔗 **Resúmen del Proyecto:** [Ver Resúmen](project_resume.ipynb)  
