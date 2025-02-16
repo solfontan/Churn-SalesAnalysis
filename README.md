@@ -1,4 +1,4 @@
-## 📊 **Análisis del Abandono de Clientes (Churn) 📉  
+## 📊 **Análisis del Abandono de Clientes (Churn)** 📉  
 
 🚀 **¿Cómo predecimos y reducimos la pérdida de clientes?** En este proyecto se analizarán patrones y tendencias en los datos, con el objetivo de identificar posibles correlaciones y proporcionar información que pueda servir para estrategias futuras de retención de clientes.
 
