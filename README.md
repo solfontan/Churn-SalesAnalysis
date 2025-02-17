@@ -11,8 +11,10 @@ Este análisis se centra en identificar los principales factores que afectan la 
 ## 📌 **Estructura del Proyecto**  
 
 📁 **`data/`** → Conjunto de datos utilizado en el análisis.  
+
 - **raw** → bases de datos en formato .csv
 - **clean** → bases de datos, procesadas y limpias para la presentación de gráficos e hipótesis.
+  
 📁 **`notebooks/`** → Análisis exploratorio, limpieza de datos y pruebas de hipótesis.  
 📁 **`utils/`** → Funciones auxiliares para el procesamiento de datos.  
 
